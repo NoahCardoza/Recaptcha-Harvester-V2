@@ -2,6 +2,10 @@
 
 > Solve captchas yourself without having to pay for services like 2captcha for use in automated projects.
 
+## notice
+
+Further development has moved to [NoahCardoza/CaptchaHarvester](https://github.com/NoahCardoza/CaptchaHarvester).
+
 ## setup
 
 ```bash
